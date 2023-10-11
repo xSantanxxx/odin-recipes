@@ -1,0 +1,5 @@
+# odin-recipes
+This project will be about creating a website displaying receipes
+
+At the end of this project I should be able to create a HTML Document,
+having anchor elements and maybe image elements
