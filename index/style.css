@@ -17,3 +17,18 @@ body .link{
     font-size: 14px;
 }
 
+.box{
+    width: 500px;
+    height: auto;
+    border: 3px dotted black;
+    margin-bottom: 5px ;
+    background-color: rgb(46, 175, 214);
+}
+
+.box .bee{
+    background-color: rgb(230, 142, 28);
+}
+
+.box.dog{
+    background-color: rgb(215, 228, 35);
+}
